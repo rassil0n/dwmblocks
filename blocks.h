@@ -16,6 +16,7 @@ static const Block blocks[] = {
     {"",        "dwmb-battery",      5,                  19},
     {"",        "dwmb-date",        30,                  20},
     {"",        "dwmb-kbselect",     0,                  29},
+    {"",        "dwmb-xbanish",      0,                  30},
 
 	// not used
     // {"",        "dwmb-nettraf",      1,                  21},
